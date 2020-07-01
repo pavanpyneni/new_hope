@@ -1,3 +1,6 @@
+New data
+line 2
+lin3
 Modify the file
 This is my first checkin
 As part of training
